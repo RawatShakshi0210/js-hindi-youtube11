@@ -22,32 +22,4 @@ let isLoggedIn = false
 
 // object
 
-console.log(typeof "shakshi"); // string,,
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// this line of code will help you to find the datatype of anything
+console.log(typeof "shakshi"); // string,,this line of code will help you to find the datatype of anything
