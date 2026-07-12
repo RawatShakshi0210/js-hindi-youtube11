@@ -27,5 +27,37 @@ console.log(typeof stringNumber);
 
 
 
+//*************************************** OPERATIONS ***********************************//
+let value = 3
+let negValue = -3
+//console.log(negValue);//this will provide the negative value as written in code
+
+
+let str1 = "hello"
+let str2 = "hitesh"
+
+let str3 = str1 + str2
+console.log(str3);
+
+console.log("1" + 2); // gives the value 12
+console.log(1 + "2"); // gives the value 12
+console.log("1" + 2 + 2); // gives the value 122
+console.log(1+2+"2"); // gives the value 32
+
+//console.log( (3+4) * 5 % 3); // this is the best way to write the code , it defines 
+                              // the seperate value
+
+
+let num1,num2,num3
+
+num1 = num2 = num3 = 2+2
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
+
+//link to study
+// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
+// this link will help you to study operators in deeply way
 
 
